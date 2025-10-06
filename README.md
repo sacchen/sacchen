@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 - I'm working on reimplementing [AlphaGo](https://github.com/sacchen/go-engine) starting from classical ML.
+- I have a blog at [sacchen.github.io](https://sacchen.github.io/).
+- Sometimes I implement math things in [python](https://github.com/sacchen/jupyter-sandbox) to practice
 
 <!--
 **sacchen/sacchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
