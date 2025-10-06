@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm working on reimplementing [AlphaGo]([https://github.com/sacchen/go-engine]) starting from classical ML.
+- I'm working on reimplementing [AlphaGo](https://github.com/sacchen/go-engine) starting from classical ML.
 
 <!--
 **sacchen/sacchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
