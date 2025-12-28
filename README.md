@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm making [shortyourfriends](https://github.com/sacchen/short-your-friends), a platform to short your friends and make them achieve their goal to spite and prove you wrong.
+- I'm making [shortyourfriends](https://github.com/sacchen/short-your-friends), a platform to short your friends and make them achieve their goals to spite and prove you wrong.
 - I blog at [sacchen.github.io](https://sacchen.github.io/)
 
 <!--
