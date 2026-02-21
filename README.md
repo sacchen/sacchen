@@ -15,11 +15,11 @@ Trading exchange / limit order book simulator with typed interfaces and a matchi
 - Benchmark-focused engineering and reliability testing
 
 ### [phil](https://github.com/sacchen/phil)
-Terminal-first symbolic calculator (`philcalc` on [PyPI](https://pypi.org/project/philcalc/)) for exact math workflows.
+Terminal-first symbolic calculator (`philcalc` on [PyPI](https://pypi.org/project/philcalc/)) built for when web calculators break your flow.
 
-- Exact-by-default arithmetic
-- REPL + one-shot CLI parity
-- User-focused onboarding and error hints
+- Exact-by-default results, so users don’t fight decimal approximations when they need symbolic answers.
+- Faster solving flow for long expressions directly in terminal, no context switching to web calculators.
+- Predictable one-shot + REPL behavior and script-friendly output, so users trust it in repeat workflows.
 
 ### [go-engine](https://github.com/sacchen/go-engine)
 Go game engine with bots and tournament runner.
