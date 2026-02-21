@@ -15,7 +15,7 @@ Trading exchange / limit order book simulator with typed interfaces and a matchi
 - Benchmark-focused engineering and reliability testing
 
 ### [phil](https://github.com/sacchen/phil)
-Terminal-first symbolic calculator (`[philcalc](https://pypi.org/project/philcalc/)` on PyPI) for exact math workflows.
+Terminal-first symbolic calculator (`philcalc` on [PyPI](https://pypi.org/project/philcalc/)) for exact math workflows.
 
 - Exact-by-default arithmetic
 - REPL + one-shot CLI parity
