@@ -50,7 +50,11 @@ technical and policy analysis at [sacchen.github.io](https://sacchen.github.io).
 
 - [how fragile is the ai industry?](https://sacchen.github.io/blog/how-fragile-is-the-AI-industry/)
 
+### [passagemath-agent-kit](https://github.com/sacchen/passagemath-agent-kit)
+infrastructure toolkit for agentic contributions to the passagemath monorepo.
 
+### [dotfiles](https://github.com/sacchen/dotfiles)
+configuration and environment management for reproducible engineering workflows.
 
 <!--
 **sacchen/sacchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
