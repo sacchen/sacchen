@@ -36,6 +36,13 @@ lightweight distributed compute cooperative pooling personal machines for parall
 - transparent state tracking, log recording, and artifact storage
 - built for high-throughput batch experimentation without cloud overhead
 
+## tooling & environment
+### [passagemath-agent-kit](https://github.com/sacchen/passagemath-agent-kit)
+infrastructure for agentic contributions to the passagemath monorepo.
+
+### [dotfiles](https://github.com/sacchen/dotfiles)
+reproducible environment management.
+
 ## methodology & collaboration
 
 - issue-driven development and clean commit history (inspired by [the perfect commit](https://simonwillison.net/2022/Oct/29/the-perfect-commit/))
@@ -49,12 +56,6 @@ lightweight distributed compute cooperative pooling personal machines for parall
 technical and policy analysis at [sacchen.github.io](https://sacchen.github.io).
 
 - [how fragile is the ai industry?](https://sacchen.github.io/blog/how-fragile-is-the-AI-industry/)
-
-### [passagemath-agent-kit](https://github.com/sacchen/passagemath-agent-kit)
-infrastructure toolkit for agentic contributions to the passagemath monorepo.
-
-### [dotfiles](https://github.com/sacchen/dotfiles)
-configuration and environment management for reproducible engineering workflows.
 
 <!--
 **sacchen/sacchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
