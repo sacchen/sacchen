@@ -38,7 +38,7 @@ lightweight distributed compute cooperative pooling personal machines for parall
 
 ## tooling & environment
 ### [passagemath-agent-kit](https://github.com/sacchen/passagemath-agent-kit)
-infrastructure for agentic contributions to the passagemath monorepo.
+infrastructure for agentic contributions to the [passagemath](https://github.com/passagemath/passagemath/) monorepo.
 
 ### [dotfiles](https://github.com/sacchen/dotfiles)
 reproducible environment management.
